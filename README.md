@@ -17,5 +17,5 @@
 
 [![harish's github stats](https://github-readme-stats.vercel.app/api?username=harishsdev&show_icons=true&theme=buefy&hide=prs,issues)](https://github.com/harishsdev/harishsdev)
 
-![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=harishsdev.harishsdev)
+
 
