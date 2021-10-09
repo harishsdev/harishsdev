@@ -5,7 +5,7 @@
 * [Audio Tagging] 🔉 
 * [Audio keyword spotting] 🔉 
 * [Torch audio]🔉 
-* [Torch vision]🔉 
+* [Torch vision]
 
 
 #### 🕹️ Tools
