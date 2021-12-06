@@ -2,8 +2,8 @@
 
 #### 📌 Current Active Projects
 
-* [Audio Tagging] 🔉 
-* [Audio keyword spotting] 🔉 
+
+* [ASR] 🔉 
 * [Torch audio]🔉 
 * [Torch vision]
 
