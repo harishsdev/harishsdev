@@ -2,7 +2,7 @@
 
 #### 📌 Current Active Projects
 
-* [NPU]
+* [NPU] ![image](https://github.com/user-attachments/assets/9f197f51-d1c6-4765-81f8-82b5940c2b50)
 * [ASR] 🔉 
 * [Torch audio]🔉 
 * [Torch vision]
