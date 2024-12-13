@@ -2,7 +2,7 @@
 
 #### 📌 Current Active Projects
 
-
+* [NPU]
 * [ASR] 🔉 
 * [Torch audio]🔉 
 * [Torch vision]
