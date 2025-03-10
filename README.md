@@ -27,10 +27,6 @@
 
 ---
 
-#### 📊 GitHub Stats  
-[![harish's github stats](https://github-readme-stats.vercel.app/api?username=harishsdev&show_icons=true&theme=buefy&hide=prs,issues)](https://github.com/harishsdev/harishsdev)  
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harishsdev&layout=compact&theme=buefy)](https://github.com/harishsdev)  
 
----
 
 
