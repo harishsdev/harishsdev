@@ -46,20 +46,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
 
 ---
-
-## 📊 **GitHub Stats & Activity**
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harishsdev&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harishsdev&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=harishsdev&theme=tokyonight&no-bg=true&no-frame=true&column=7" alt="GitHub Trophies" />
-</p>
-
 ---
 
 ## 🎯 **Latest Activity**
