@@ -1,8 +1,9 @@
 <h1 align="center"> 🚀 Harish S Dev | AI & Embedded Systems </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=700&lines=AI+Engineer+%7C+Deep+Learning+%7C+NPU+Expert;Edge+AI+%7C+LLMs+%7C+Computer+Vision+%7C+Embedded+AI;Optimizing+AI+for+Jetson%2C+RK3588%2C+OpenVINO%2C+TensorRT" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F7B42C&center=true&vCenter=true&width=800&lines=🚀+AI+Engineer+%7C+NPU+Expert+%7C+Deep+Learning;⚡+Edge+AI+%7C+LLMs+%7C+Computer+Vision+%7C+Embedded+AI;🎯+Optimizing+AI+for+Jetson%2C+RK3588%2C+OpenVINO%2C+TensorRT;🔥+Building+Ultra-Low+Latency+AI+Pipelines" />
 </p>
+
 
 
 ---
