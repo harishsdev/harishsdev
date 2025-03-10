@@ -1,4 +1,4 @@
-<h1 align="center"> 🚀 Harish S Dev | AI & Embedded Systems </h1>
+<h1 align="center"> 🚀 Harish S  | AI & Embedded Systems </h1>
 
 
 <p align="center">
