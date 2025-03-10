@@ -15,8 +15,7 @@
 🔹 **[ASR (Automatic Speech Recognition)]** 🔊  
 🔹 **[Torch Audio Processing]** 🎧  
 🔹 **[Torch Vision for Computer Vision]** 🖼️  
-🔹 **[LLM Development & Optimization]** 🤖  
-🔹 **[GAN-based Image Synthesis]** 🎨  
+🔹 **[LLM Development & Optimization]** 🤖    
 🔹 **[Low-latency AI Deployment on Edge Devices]** ⚡  
 🔹 **[Advanced Speech Processing for Embedded Systems]** 🎙️  
 
@@ -56,7 +55,6 @@
 1. 📌 **Working on AI Optimization for RK3588 & Jetson**
 2. 🚀 **Building a Multi-threaded Low-latency Video Processing Pipeline**
 3. 🔥 **Experimenting with Custom LLM Deployment on Edge Devices**
-4. 🖥️ **Enhancing GAN-based Image Generation**
 <!--END_SECTION:activity-->
 
 ---
