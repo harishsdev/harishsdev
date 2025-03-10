@@ -1,32 +1,79 @@
-# harishsdev
+<h1 align="center"> 🚀 Harish S Dev | AI & Embedded Systems </h1>
 
-#### 📌 Current Active Projects
-
-* [NPU] ![image](https://github.com/user-attachments/assets/ee46c6a1-ce21-4315-9495-12abae41baeb)
-* [ASR] 🔉 
-* [Torch Audio] 🔉 
-* [Torch Vision] 🖼️ 
-* [LLM Development] 🤖  
-* [GAN-based Image Processing] 🎨  
-* [Computer Vision Optimization] 📷  
-* [Speech Processing on Edge Devices] 🎙️  
-
-#### 🛠️ Tools & Frameworks
-![PyTorch](https://img.shields.io/badge/PyTorch-white?style=for-the-badge&logo=pytorch)
-![ONNX](https://img.shields.io/badge/ONNX-white?style=for-the-badge&logo=onnx&logoColor=gray)
-![TensorRT](https://img.shields.io/badge/TensorRT-white?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAUCAMAAADImI+JAAACl1BMVEVsbGxwtgBxtgBxtwBytwBytwFyuABzc3NztwBzuAB0uAB0uAF0uQJ1uAB1uAN1uQB2uQB2uQJ4ugR4ugV4ugd5eXl5ugV5uwZ5uwd6uwh6uwt7vAp8vAp8vAt9fX19vQ59vRJ+vQ9+vRB/f39/vhB/vhGAvhKAvhSAvhaBvxSCgoKDvxiEwRmGwR6HwyCJwyeKwyeNxSyPxi2RkZGRxzKRyC+RyS+SkpKTk5OUlJSUyDqVlZWVyTmVyTuVyTyWyTyWyT6Yy0GZmZmZy0Way0Kbm5ubzEWcnJydzUqenp6fzk2goKChoaGiz1Kiz1Sj0FOkpKSlpaWl0Vempqampqem0Vim01aoqKipqamp016qqqqq1GGr1GSt1Waurq6u1WiwsLCxsbGz2HKz2HO0s7W0tLS02XW12XW2tra3t7i32nm32nq323e4t7q4uLi423u5ubm523y523253H26ub26urq63H67u7u73IC824S83YK83YW93YW+vr6+3oW+3oa+3oe/v7+/3oe/3onAwMDDw8PD4I/D4JDE4ZLFxMbFxcXG4pXHx8fH4pbH4pfIx8nI3aLI4pnK5J7L5J/Q4bPQ56nR0s7S0tLT0tPT57DU1NTV1dXW1tbW19XW6rPZ2dna2dra2tra7Lra7Lzb29vb4s3c68Dd3d3d77ze3t7f39/g4ODg78Ti4uLj4+Pk4+Xm5ubm6t7m8tDm8tHn9NHo6Ojo89Xp6enq6urr6uvr6+vt9t3u9ePu+N7v7u/v7+/v9+Hw8PDx8fHx+OPy8vLz8/Pz9PPz+en09PT19fX29vb2+u/39/f3+/H4+Pj5+fn5+fr5/PT5/PX6+vr7+vv7+/v8/Pz8/fn9/f3+/v3+/v7///r////i1cN6AAAB3klEQVR42mO4gw7OLu5omLwZQximcO0uCH2xWV+Qg4VTynkRDoVOjWBqtxUjpwAQ8DPzZd9EVbgh6s6tM3fu9ATW1tb27zFkFIACXsacfV0w4H7kDsM6yztbGXxKTy2cP3/+Kl+oOrChPBNmTIeCuBN3GPYX3Llz/lQi2PgV3AJIgMXoNrLVRyzz8koTlAvy8jIXhDEJIAPOmZ2lqcY3YJ7Zunr16jmuq4Fgow4nPy8Y8vNy8XLxM8WvX7mk6xayr0+lgsgtIlnpqpKa4kqy0gouTUHtjjYYwXPOIiEhIWUKm0fdpKLusqLCqoakef7JKqZzE4BA7ghSOB7avmPHzmUs9vltsTFpvfU1obYVbtGyJseAwttnXYUpPLgBonqvpLCYmqSkoryMrLiYkIwkqxea1S3md+5MD4iImGbGAvYIEPMLADFTZW54BBh4aoEVrmq9cydj4YmjF4oZkUOHV2LbqRMnT4DAoQ1ghctb7twp3wpkHFbnQlLIGAkUOo9s9XaL4GBR6+DgwJKJLPyIiNFbGhLozX4VOXiuXb6ct/by5ctX7mQxw8xk0lhz5+q1q4fQk1n4Sgjdp8HIwsXFycRstwl7evScDWUcqHbQ1Tbwm3odI+FigtPHL2EKAgCQ7by+f1m5IgAAAABJRU5ErkJggg==&logoWidth=35)
-![OpenCV](https://img.shields.io/badge/OpenCV-white?style=for-the-badge&logo=opencv&logoColor=blue)
-![SKLearn](https://img.shields.io/badge/Sklearn-white?style=for-the-badge&logo=scikit-learn)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-white?style=for-the-badge&logo=huggingface)
-![NumPy](https://img.shields.io/badge/NumPy-white?style=for-the-badge&logo=numpy)
-![Pandas](https://img.shields.io/badge/Pandas-white?style=for-the-badge&logo=pandas)
-![CUDA](https://img.shields.io/badge/CUDA-white?style=for-the-badge&logo=nvidia)
-![ONNX Runtime](https://img.shields.io/badge/ONNX_Runtime-white?style=for-the-badge&logo=onnx)
-![Jetson](https://img.shields.io/badge/Jetson-white?style=for-the-badge&logo=nvidia)
-![OpenVINO](https://img.shields.io/badge/OpenVINO-white?style=for-the-badge&logo=intel)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=AI+Engineer+%7C+NPU+Expert+%7C+Deep+Learning+Researcher;Edge+AI+%7C+LLMs+%7C+Computer+Vision+%7C+Embedded+AI;Working+on+RK3588%2C+Jetson%2C+OpenVINO%2C+TensorRT" />
+</p>
 
 ---
 
+## 🚀 **Current Active Projects**
+🔹 **[NPU Acceleration]** 📡  
+🔹 **[ASR (Automatic Speech Recognition)]** 🔊  
+🔹 **[Torch Audio Processing]** 🎧  
+🔹 **[Torch Vision for Computer Vision]** 🖼️  
+🔹 **[LLM Development & Optimization]** 🤖  
+🔹 **[GAN-based Image Synthesis]** 🎨  
+🔹 **[Low-latency AI Deployment on Edge Devices]** ⚡  
+🔹 **[Advanced Speech Processing for Embedded Systems]** 🎙️  
 
+---
 
+## 🛠️ **Tech Stack & Tools**
+### 🔥 **Deep Learning Frameworks**  
+![PyTorch](https://img.shields.io/badge/PyTorch-F05032?style=for-the-badge&logo=pytorch&logoColor=white)  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  
+![ONNX](https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white)  
+![OpenVINO](https://img.shields.io/badge/OpenVINO-0071C5?style=for-the-badge&logo=intel&logoColor=white)  
 
+### ⚡ **Edge AI & Accelerators**  
+![NVIDIA Jetson](https://img.shields.io/badge/Jetson-76B900?style=for-the-badge&logo=nvidia&logoColor=white)  
+![RK3588](https://img.shields.io/badge/RK3588-blue?style=for-the-badge)  
+![TensorRT](https://img.shields.io/badge/TensorRT-76B900?style=for-the-badge&logo=nvidia&logoColor=white)  
+
+### 🎨 **Computer Vision & Image Processing**  
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)  
+![Torch Vision](https://img.shields.io/badge/Torch%20Vision-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)  
+
+### 🎙 **Speech & NLP**  
+![SpeechBrain](https://img.shields.io/badge/SpeechBrain-FF4500?style=for-the-badge&logo=brain&logoColor=white)  
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FACF50?style=for-the-badge&logo=huggingface&logoColor=white)  
+
+### ⚙ **Programming Languages & Tools**  
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)  
+![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+
+---
+
+## 📊 **GitHub Stats & Activity**
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harishsdev&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=harishsdev&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=harishsdev&theme=tokyonight&no-bg=true&no-frame=true&column=7" alt="GitHub Trophies" />
+</p>
+
+---
+
+## 🎯 **Latest Activity**
+<!--START_SECTION:activity-->
+1. 📌 **Working on AI Optimization for RK3588 & Jetson**
+2. 🚀 **Building a Multi-threaded Low-latency Video Processing Pipeline**
+3. 🔥 **Experimenting with Custom LLM Deployment on Edge Devices**
+4. 🖥️ **Enhancing GAN-based Image Generation**
+<!--END_SECTION:activity-->
+
+---
+
+## 📫 **Let's Connect**
+<p align="center">
+  <a href="https://www.linkedin.com/in/harishsdev"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:harishsdev@example.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/harishsdev"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+</p>
