@@ -2,7 +2,8 @@
 
 
 <p align="center">
-   <img src="https://img.shields.io/badge/AI%20Engineer%20|%20NPU%20Expert%20|%20Edge%20AI-FF5733?style=for-the-badge" />
+   <img src="https://readme-typing-svg.demolab.com?lines=Hello+World;AI+Engineer+%7C+NPU+Expert" />
+
 
 </p>
 
