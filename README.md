@@ -2,8 +2,9 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=1500&pause=500&color=FF5733&center=true&vCenter=true&width=900&lines=🚀+AI+Engineer+%7C+NPU+Expert+%7C+Deep+Learning;⚡+Edge+AI+%7C+LLMs+%7C+Computer+Vision+%7C+Embedded+AI;🎯+AI+Optimization+%7C+Jetson%2C+RK3588%2C+OpenVINO%2C+TensorRT;🔥+Ultra-Low+Latency+AI+Pipelines+%7C+Real-Time+Inference;💡+Accelerating+AI+on+NPU+%7C+GPU+%7C+Edge+Devices" />
-
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FF5733&width=800&lines=AI+Engineer+%7C+NPU+Expert;Edge+AI+%7C+LLMs+%7C+Embedded+Systems" />
+</p>
 
 
 </p>
