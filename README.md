@@ -2,9 +2,10 @@
 
 
 <p align="center">
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FF5733&width=800&lines=AI+Engineer+%7C+NPU+Expert;Edge+AI+%7C+LLMs+%7C+Embedded+Systems" />
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75000&center=true&vCenter=true&width=800&lines=AI+Engineer+%7C+NPU+Expert;Edge+AI+%7C+LLMs+%7C+RK3588;Low-latency+AI+Deployment+%7C+TensorRT;Accelerating+AI+on+NPU+%7C+GPU+%7C+Edge" />
+</div>
+
 
 
 </p>
