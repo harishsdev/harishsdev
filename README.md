@@ -2,7 +2,7 @@
 
 
 <p align="center">
-   <img src="https://readme-typing-svg.demolab.com?lines=Hello+World;AI+Engineer+%7C+NPU+Expert" />
+   <img src="https://readme-typing-svg.demolab.com?lines=S Harish;AI+Engineer+%7C+NPU+Expert" />
 
 
 </p>
